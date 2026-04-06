@@ -1,0 +1,1085 @@
+Date: 6/9/2025
+Time: 14:27
+Phone Number: +919721954497
+Message: EMERGENCY DETECTED!! Drowsiness detected at 2025-09-06 14:27:45. Location: Latitude: 26.8393, Longitude: 80.9231
+--------------------
+Date: 6/9/2025
+Time: 14:33
+Phone Number: +919721954497
+Message: EMERGENCY DETECTED!! Drowsiness detected at 2025-09-06 14:33:43. Location: Latitude: 26.8393, Longitude: 80.9231
+--------------------
+Date: 6/9/2025
+Time: 14:33
+Phone Number: +919721954497
+Message: EMERGENCY DETECTED!! User requested emergency via voice command at 2025-09-06 14:33:19. Location: Latitude: 26.8393, Longitude: 80.9231
+--------------------
+Date: 6/9/2025
+Time: 14:47
+Phone Number: +919721954497
+Message: EMERGENCY DETECTED!! User requested emergency via voice command at 2025-09-06 14:47:06. Location: Latitude: 26.8393, Longitude: 80.9231
+--------------------
+Date: 6/9/2025
+Time: 14:53
+Phone Number: +918127840644
+Message: EMERGENCY DETECTED!! User requested emergency via voice command at 2025-09-06 14:53:11. Location: Latitude: 26.8393, Longitude: 80.9231
+--------------------
+Date: 9/9/2025
+Time: 16:25
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! User requested emergency via voice command at 2025-09-09 16:25:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:42. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:42. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:15. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:15. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:42. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:15. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:42. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:15. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:42. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:16. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:15. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:15. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:41. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:42. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:41. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:42. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:15. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:41. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:41. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:42. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:41. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:41. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:41. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:41. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:41. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:13. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:11. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:12. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:14. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:15. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 9/9/2025
+Time: 16:27
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-09 16:27:41. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:07. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:07. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:07. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:07. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:07. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:07. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:07. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:07. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:10. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:09. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:07. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:07. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:09. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! User requested emergency via voice command at 2025-09-24 09:52:26. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:07. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:07. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:09. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:09. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:07. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:09. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:06. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 24/9/2025
+Time: 9:52
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! Drowsiness detected for more than 7 seconds at 2025-09-24 09:52:08. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
+Date: 10/3/2026
+Time: 16:24
+Phone Number: +918303557744
+Message: EMERGENCY DETECTED!! User requested emergency via voice command at 2026-03-10 16:24:26. Location: Latitude: 26.4652, Longitude: 80.3498
+--------------------
